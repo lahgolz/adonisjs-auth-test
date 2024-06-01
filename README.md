@@ -1,0 +1,1 @@
+# adonisjs-auth-test
